@@ -65,6 +65,11 @@ flutter:
      - images/pantai_morosari1.jpg
      - images/pantai_morosari2.jpg
      - images/pantai_morosari3.jpg
+     - images/masjid_agung.jpg
+     - images/nasi_ndoreng.jpg
+     - images/pantai_onggojoyo.jpg
+     - images/tambakbulusan.jpg
+     - images/wedang_pekak.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
